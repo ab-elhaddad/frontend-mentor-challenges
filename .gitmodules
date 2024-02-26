@@ -7,3 +7,6 @@
 [submodule "newbie/qr-code-component"]
 	path = newbie/qr-code-component
 	url = https://github.com/ab-elhaddad/qr-code-component
+[submodule "newbie/social-links-profile"]
+	path = newbie/social-links-profile
+	url = https://github.com/ab-elhaddad/social-links-profile
