@@ -13,6 +13,7 @@ This repository contains my solutions to the challenges from [Frontend Mentor](h
 ### Junior
 
 - [Age Calculator](https://github.com/ab-elhaddad/age-calculator-react)
+- [Newsletter Signup](https://github.com/ab-elhaddad/newsletter-sign-up)
 
 ## Contributing
 
