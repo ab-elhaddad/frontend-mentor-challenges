@@ -13,3 +13,6 @@
 [submodule "junior/newsletter-sign-up"]
 	path = junior/newsletter-sign-up
 	url = https://github.com/ab-elhaddad/newsletter-sign-up
+[submodule "junior/interactive-card-form"]
+	path = junior/interactive-card-form
+	url = https://github.com/ab-elhaddad/interactive-card-form
